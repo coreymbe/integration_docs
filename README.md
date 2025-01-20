@@ -1,2 +1,2 @@
-# integration_docs
-Documentation for Puppet Integrations
+# Puppet Integration Docs
+Documentation for Puppet Enterprise Integrations
